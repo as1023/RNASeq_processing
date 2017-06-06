@@ -19,3 +19,11 @@ cancel the job (new command) cancel ALL idle jobs
 cancel ALL running jobs
 cancel ALL hold jobs
 cancel ALL your jobs!
+####github tutorial 
+
+git pull origin 
+
+git add .
+git commit -m "creat"
+git push origin master
+
